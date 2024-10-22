@@ -16,6 +16,11 @@ The application covers the following tasks:
 - **ETL Process**: Efficiently processes data before storing it in MongoDB.
 - **PDF Report Generation**: Creates detailed reports of leads and campaigns.
 - **Email Notifications**: Sends emails with the report attached when certain criteria are met.
+- 
+## Demo
+
+![Email demo](./jd1.jpg)
+![report demo](./jd2.jpg)
 
 ## Prerequisites
 
